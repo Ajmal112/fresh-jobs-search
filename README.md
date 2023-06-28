@@ -36,5 +36,5 @@ Contributions to this project are welcome! If you have any ideas, improvements, 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license..
 
